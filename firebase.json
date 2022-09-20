@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "site": "book-a-bite-admin-practice",
+    "public": "build/web"
+  }
+}
